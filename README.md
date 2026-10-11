@@ -18,7 +18,7 @@ Constitutional Crimes of the Head of State - A Comparative Study between Palesti
 - الرقم المرجعي: 1354433
 
 **2. ORCID - المعرف الدولي للباحث / Researcher ID**
-- الرابط: https://https://orcid.org/0009-0008-4148-4669
+- الرابط: https://orcid.org/0009-0008-4148-4669
 - الرقم: 0009-0008-4148-4669
 
 **3. Zenodo - التابع لـ CERN / الاتحاد الأوروبي**
